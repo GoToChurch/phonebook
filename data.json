@@ -1,0 +1,98 @@
+[
+    {
+        "lastname": "Иванов",
+        "name": "Глеб",
+        "surname": "Павлович",
+        "organisation": "Газпром",
+        "work_number": "2996569",
+        "personal_number": "+79651234567"
+    },
+    {
+        "lastname": "Павлов",
+        "name": "Мастре",
+        "surname": "Деувич",
+        "organisation": "СГУ",
+        "work_number": "2767777",
+        "personal_number": "+79678901122"
+    },
+    {
+        "lastname": "Гамшек",
+        "name": "Петр",
+        "surname": "Ильич",
+        "organisation": "МФЦ",
+        "work_number": "2959595",
+        "personal_number": "+79678901123"
+    },
+    {
+        "lastname": "Ворошилова",
+        "name": "Ольга",
+        "surname": "Леонидовна",
+        "organisation": "СГУ",
+        "work_number": "2954481",
+        "personal_number": "+79991588745"
+    },
+    {
+        "lastname": "Петров",
+        "name": "Сергей",
+        "surname": "Виктровоич",
+        "organisation": "СГУ",
+        "work_number": "2954481",
+        "personal_number": "+79991588746"
+    },
+    {
+        "lastname": "Петрова",
+        "name": "Ирина",
+        "surname": "Михайловна",
+        "organisation": "Газпром",
+        "work_number": "2996569",
+        "personal_number": "+79991588546"
+    },
+    {
+        "lastname": "Лучков",
+        "name": "Павел",
+        "surname": "Ильич",
+        "organisation": "МФЦ",
+        "work_number": "2959595",
+        "personal_number": "+79941588546"
+    },
+    {
+        "lastname": "Петрова",
+        "name": "Мария",
+        "surname": "Эдуардовна",
+        "organisation": "СпецСтрой",
+        "work_number": "2956611",
+        "personal_number": "+79941588142"
+    },
+    {
+        "lastname": "Захарян",
+        "name": "Арут",
+        "surname": "Самвелович",
+        "organisation": "МФЦ",
+        "work_number": "2959595",
+        "personal_number": "+79658891477"
+    },
+    {
+        "lastname": "Чукадзе",
+        "name": "Ниринэ",
+        "surname": "Руслановна",
+        "organisation": "СпецСтрой",
+        "work_number": "2956612",
+        "personal_number": "+79658891498"
+    },
+    {
+        "lastname": "Пруидзе",
+        "name": "Лидия",
+        "surname": "Арутровна",
+        "organisation": "СГУ",
+        "work_number": "2767777",
+        "personal_number": "+79658891499"
+    },
+    {
+        "lastname": "Петрова",
+        "name": "Елена",
+        "surname": "Борисовна",
+        "organisation": "Газпром",
+        "work_number": "2902211",
+        "personal_number": "+79111234546"
+    }
+]
